@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Al-Dolime'
 description 'Admin Panel'
-version '1.7.1'
+version '1.1.3'
 lua54 'yes'
 
 ui_page 'html/index.html'
